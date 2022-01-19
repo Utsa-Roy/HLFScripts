@@ -1,0 +1,1 @@
+docker exec cli peer chaincode query -n fabcar -C mychannel -c '{"Args":["QueryPermission","Request1"]}'
